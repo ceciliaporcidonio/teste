@@ -21,6 +21,15 @@
       <change afterPath="$PROJECT_DIR$/../../Exercicio_modulo7/ExercicioModulo7/ExercicioModulo7.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Exercicio_modulo7/ExercicioModulo7/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Exercicio_modulo7/ExercicioModulo7/src/PassagemAviao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PessoaTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Projeto 1" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Projeto2" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../atividade_projeto_2/README.md" beforeDir="false" />
@@ -6040,7 +6049,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
@@ -6052,8 +6061,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
+    "JUnit.PessoaTest.executor": "Run",
+    "JUnit.PessoaTest.testSomenteMulheres.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -6124,7 +6136,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727802816187</updated>
-      <workItem from="1727802817208" duration="978000" />
+      <workItem from="1727802817208" duration="1322000" />
     </task>
     <servers />
   </component>
